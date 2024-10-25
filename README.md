@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cansu</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
-- 📄 Know about my experiences [www.linkedin.com/in/cansu-urgun](www.linkedin.com/in/cansu-urgun)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cansu-urgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cansu-urgun" height="30" width="40" /></a>
